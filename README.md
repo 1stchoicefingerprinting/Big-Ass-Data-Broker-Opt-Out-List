@@ -235,5 +235,6 @@ I wrote a blog post about [what my privacy and security stack actually looks lik
 
 I am still in the process of adding additional privacy and security resources; stay tuned.
 
+For information about privacy and personal information handling during fingerprinting and background checks, see the [1st Choice Fingerprinting privacy policy](https://www.1stchoicefingerprints.org/privacy-policy/).
 
 There is also a free service. [Have I Been Pwned](https://haveibeenpwned.com/) allows you to check to see if your email address has been involved in a data breach. 
